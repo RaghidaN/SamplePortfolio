@@ -1,10 +1,11 @@
+/* Set to 100% of browser height */
 html, body {
   height: 100%;
   width: 100%;
 }
 
 
-
+/*align and size photo*/
 img {
   border: 1px solid black;
   border-radius: 25px;
@@ -18,7 +19,7 @@ body {
   text-align: center;
 }
 
-
+/*Top color block */
 header {
   background-color: #4c666a;
   border-bottom: 1px solid #4c666a;
@@ -43,6 +44,7 @@ h2 {
   font-size: 24px;                   
 }
 
+/*Font size and color of paragraph text*/
 p {
   text-align: center;
   color: #fff;
@@ -58,6 +60,7 @@ ol, ul {
 
 }
 
+/* Padding to make space around content */
 div {
   padding-top: 50px;
   padding-right: 30px;
@@ -71,6 +74,7 @@ a:visited { color: #8b7979;   }
 a:hover   { color: green; }
 a:active  { color: pink;  }
 
+/* Set color and size of bottom footer */
 footer{
   margin: 50px;
   background-color: #b1b4b1;
