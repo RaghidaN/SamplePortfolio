@@ -5,10 +5,6 @@ html, body {
 
 
 
-ul {
-  text-align: center;
-}
-
 img {
   border: 1px solid black;
   border-radius: 25px;
@@ -54,10 +50,11 @@ p {
   font-size: 18px;  
 }
 
-
+/* decided not to use below
 .centered {
   text-align: center;
 }
+*/
 
 ol, ul {
   text-align: center;
