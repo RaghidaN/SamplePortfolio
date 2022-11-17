@@ -62,10 +62,7 @@ ol, ul {
 
 /* Padding to make space around content */
 div {
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
+  padding: 50px, 30px, 50px, 80px;
   margin: auto;
 }
 
