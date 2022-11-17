@@ -36,7 +36,7 @@ header h1 {
   margin-bottom: 40px;        
 }
 
-header h2 {
+h2 {
   text-align: center;
   color: #fff;
   font-family: Verdana, serif;
@@ -50,18 +50,12 @@ p {
   font-size: 18px;  
 }
 
-/* decided not to use below
-.centered {
-  text-align: center;
-}
-*/
 
 ol, ul {
   color: #fff;
   font-family: Verdana, serif;
   font-size: 18px;    
-  margin: 0;
-  padding: 0;
+
 }
 
 div {
@@ -74,7 +68,7 @@ a:hover   { color: green; }
 a:active  { color: pink;  }
 
 footer{
-  margin: 0;
+  margin: 50px;
   background-color: #b1b4b1;
   text-align: center;
 }
